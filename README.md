@@ -1,6 +1,6 @@
-# Sherab Project Documentation
+# WeBuddhist Academy Project Documentation
 
-Welcome to the **Sherab Project**. This repository contains the central documentation, technical setup instructions, and operational procedures for our customized Open edX deployment.
+Welcome to the **WeBuddhist Academy Project**. This repository contains the central documentation, technical setup instructions, and operational procedures for our customized Open edX deployment.
 
 ---
 
@@ -11,7 +11,7 @@ If you are new to the team, please read these files in strict order. They are de
 - ⬆️ [01. Tutor Installation & Upgrade Guide](01-tutor-installation-upgrade-guide.md)
 - ⚙️ [02. Tutor Setup & Customization Guide](02-tutor-setup-customization-guide.md)
 - 🧩 [03. Mounting Frontend MFEs](03-mounting-frontend-mfe.md)
-- 🛒 [04. Setting Up E-commerce for Sherab](04-sherab-ecommerce-setup.md)
+- 🛒 [04. Setting Up E-commerce for WeBuddhist Academy](04-WeBuddhist-Academy-ecommerce-setup.md)
 - 📱 [05. Android App Development Environment Setup](05-android-app-development-environment-setup.md)
 - 🔁 [16. Development, Testing & Deployment Workflow](16-development-testing-deployment-workflow.md)
 
@@ -35,16 +35,16 @@ Once you're set up, refer to these documents for specific administrative tasks a
 
 # 📦 Core Repositories
 
-These are our core repositories maintained under the Sherab project by [OpenPecha](https://github.com/OpenPecha).
+These are our core repositories maintained under the WeBuddhist Academy project by [OpenPecha](https://github.com/OpenPecha).
 
-### 1. [Sherab Theme](https://github.com/OpenPecha/Sherab-theme)
-A custom theme for Open edX tailored for the Sherab learning platform, including branding, styles, and logos.
+### 1. [WeBuddhist Academy Theme](https://github.com/OpenPecha/Sherab-theme)
+A custom theme for Open edX tailored for the WeBuddhist Academy learning platform, including branding, styles, and logos.
 
 ### 2. [edx-platform](https://github.com/OpenPecha/edx-platform.git)
 Our custom fork of the Open edX core codebase.
 
-### 3. [Sherab Custom Plugin](https://github.com/OpenPecha/sherab-custom-plugin)
-A Django plugin extending core functionality with Sherab-specific backend logic and custom app APIs.
+### 3. [WeBuddhist Academy Custom Plugin](https://github.com/OpenPecha/sherab-custom-plugin)
+A Django plugin extending core functionality with WeBuddhist Academy-specific backend logic and custom app APIs.
 
 ### 4. Micro-Frontends (MFEs)
 - [Authentication (Authn)](https://github.com/OpenPecha/frontend-app-authn)
@@ -81,7 +81,7 @@ Want to contribute code? Follow these steps:
 1. **Create a feature branch** off the `wbc-ulmo1-stage` branch in the respective repository
 2. Make your changes and commit them.
 3. **Open a Pull Request (PR)** to the `wbc-ulmo1-stage` branch.
-4. One of the Sherab developers will review and test your contribution.
+4. One of the WeBuddhist Academy developers will review and test your contribution.
 5. After approval, the changes will be merged into production.
 
 > 🔒 **Note:** All main branches are protected and require code review before merging.
@@ -91,6 +91,6 @@ Want to contribute code? Follow these steps:
 For discussions, questions, or collaboration:
 
 - **[Join our Discord community](https://discord.gg/8ENNuW95wx)**
-- **[Visit the Sherab Community Forum](https://forum.openpecha.org/)**
+- **[Visit the WeBuddhist Academy Community Forum](https://forum.openpecha.org/)**
 
-We're excited to work together and improve the Sherab platform with your help!
+We're excited to work together and improve the WeBuddhist Academy platform with your help!

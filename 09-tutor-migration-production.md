@@ -1,6 +1,6 @@
 # 09. Tutor Server Migration Guide
 
-This document provides explicit instructions for migrating an existing, customized local or production Sherab environment across multiple Tutor releases.
+This document provides explicit instructions for migrating an existing, customized local or production WeBuddhist Academy environment across multiple Tutor releases.
 
 > [!WARNING]
 > Since we use a customized `edx-platform` fork, upgrading Tutor requires manually checking out the matching release branch in our git repository so the code versions stay perfectly in sync.

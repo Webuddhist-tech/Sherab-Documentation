@@ -144,7 +144,7 @@ tutor plugins disable cairn forum s3 wordpress
 pip install --upgrade "tutor[full]>=20.0.0,<21.0.0"
 tutor config save
 
-# 4. Switch to the Sherab Teak branch
+# 4. Switch to the WeBuddhist Academy Teak branch
 git fetch origin sherab-teak-dev
 git checkout sherab-teak-dev
 
@@ -163,7 +163,7 @@ tutor dev launch
 pip install --upgrade "tutor[full]>=21.0.0,<22.0.0"
 tutor config save
 
-# 2. Switch to the Sherab Ulmo branch
+# 2. Switch to the WeBuddhist Academy Ulmo branch
 git fetch origin sherab-ulmo1-dev
 git checkout sherab-ulmo1-dev
 
@@ -188,4 +188,4 @@ tutor dev launch
 > You may see a warning: "It is recommended to upgrade your character set and collation of the MySQL database after upgrading to Sumac." You can safely ignore this for local development unless actively working on database migrations.
 
 ---
-**Next Step:** Your base software is running, but it's not our project code yet. Move on to [02-tutor-setup-customization-guide.md](02-tutor-setup-customization-guide.md) to apply the Sherab custom theme and plugins.
+**Next Step:** Your base software is running, but it's not our project code yet. Move on to [02-tutor-setup-customization-guide.md](02-tutor-setup-customization-guide.md) to apply the WeBuddhist Academy custom theme and plugins.

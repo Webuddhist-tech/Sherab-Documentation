@@ -1,6 +1,6 @@
 # 11. Advanced Plugins and Translations
 
-Welcome to the advanced features guide! At this point, you have a working Open edX Sherab platform. Now, we are going to add three powerful features: 
+Welcome to the advanced features guide! At this point, you have a working Open edX WeBuddhist Academy platform. Now, we are going to add three powerful features: 
 1. **Cairn** (for Analytics & Dashboards)
 2. **Discovery** (for Course Programs)
 3. **Translations** (for supporting multiple languages)
@@ -184,7 +184,7 @@ By default, the Programs tab is hidden from learners. Let's make it visible!
 ---
 
 ## 🌐 3. Handling Translations
-Sherab is a multi-lingual platform. We manage translations in a custom centralized repository: `openedx-translations`.
+WeBuddhist Academy is a multi-lingual platform. We manage translations in a custom centralized repository: `openedx-translations`.
 
 ### Which Languages Are Used?
 These are the active language codes in our system:

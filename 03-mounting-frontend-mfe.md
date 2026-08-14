@@ -93,7 +93,7 @@ Apply everything by restarting your development server.
 tutor dev restart
 ```
 
-Now, any changes you make in `frontend-app-learning/src/` on your computer will show up live on your local Sherab instance!
+Now, any changes you make in `frontend-app-learning/src/` on your computer will show up live on your local WeBuddhist Academy instance!
 
 ---
-**Next Step:** E-Commerce configuration is next in [04-sherab-ecommerce-setup.md](04-sherab-ecommerce-setup.md).
+**Next Step:** E-Commerce configuration is next in [04-WeBuddhist-Academy-ecommerce-setup.md](04-WeBuddhist-Academy-ecommerce-setup.md).

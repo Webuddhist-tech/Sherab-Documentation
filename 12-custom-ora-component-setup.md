@@ -1,6 +1,6 @@
 # 12. Custom ORA Component Setup
 
-This guide describes how to set up custom ORA (Open Response Assessment) components for Sherab (WebBuddhist Course).
+This guide describes how to set up custom ORA (Open Response Assessment) components for WeBuddhist Academy (WebBuddhist Course).
 
 There are two approaches depending on the environment:
 
