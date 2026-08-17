@@ -1,6 +1,6 @@
 # 14. Header, Footer & Brand Component Overrides
 
-This guide describes how to override the header, footer, and brand components with custom implementations for Sherab (WebBuddhist Course).
+This guide describes how to override the header, footer, and brand components with custom implementations for WeBuddhist Academy (WebBuddhist Course).
 
 ---
 

@@ -1,6 +1,6 @@
 # 02. Local Tutor Setup and Customisation Guide
 
-Up to this point, you have a vanilla (plain vanilla) Open edX installation running. Now, it's time to make it the Sherab platform by applying our custom theme, custom core platform, and plugins.
+Up to this point, you have a vanilla (plain vanilla) Open edX installation running. Now, it's time to make it the WeBuddhist Academy platform by applying our custom theme, custom core platform, and plugins.
 
 ---
 
@@ -12,7 +12,7 @@ tutor --version
 
 ---
 
-## 2. Install the Sherab Theme
+## 2. Install the WeBuddhist Academy Theme
 We need to clone our custom CSS/UI repo into Tutor's theme directory.
 1. Change into the correct directory:
    ```bash
@@ -120,7 +120,7 @@ We have specific Feature Flags and configurations required.
 ---
 
 ## 6. Clone and Mount Our Custom Plugin
-The actual backend Python logic specific to Sherab lives in `sherab-custom-plugin`.
+The actual backend Python logic specific to WeBuddhist Academy lives in `sherab-custom-plugin`.
 
 1. Go back to Tutor Root:
    ```bash
@@ -196,8 +196,8 @@ Sometimes python packages fail to attach. Let's physically check the docker cont
 
 ---
 
-## 10. Apply the Sherab Theme
-Let's turn the website from default branding to Sherab.
+## 10. Apply the WeBuddhist Academy Theme
+Let's turn the website from default branding to WeBuddhist Academy.
 1. Apply the theme via Tutor:
    ```bash
    tutor dev do settheme Sherab-theme
@@ -210,4 +210,4 @@ Let's turn the website from default branding to Sherab.
 🎉 **You are completely done setting up the core Backend & Database!**
 
 ---
-**Next Step:** Are you working on the frontend parts (like dashboards and learner portals)? If so, head to [03-mounting-frontend-mfe.md](03-mounting-frontend-mfe.md). If you're setting up eCommerce, head to [04-sherab-ecommerce-setup.md](04-sherab-ecommerce-setup.md).
+**Next Step:** Are you working on the frontend parts (like dashboards and learner portals)? If so, head to [03-mounting-frontend-mfe.md](03-mounting-frontend-mfe.md). If you're setting up eCommerce, head to [04-WeBuddhist-Academy-ecommerce-setup.md](04-WeBuddhist-Academy-ecommerce-setup.md).

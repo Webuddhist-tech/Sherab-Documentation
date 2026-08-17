@@ -1,6 +1,6 @@
 # 15. MFE Localization & Translation Setup
 
-This guide describes how to set up MFE localization and pull translations for any MFE in Sherab.
+This guide describes how to set up MFE localization and pull translations for any MFE in WeBuddhist Academy.
 
 > **Note:** Throughout this guide, replace `<mfe-name>` with the actual MFE name you are configuring, such as `account`, `learning`, `profile`, `discussions`, `authoring`, etc.
 
@@ -66,7 +66,7 @@ tutor dev exec <mfe-name> sh -lc '
 '
 ```
 
-This pulls the Sherab-specific translations from the `OpenPecha/openedx-translations` repository on the `sherab-dev` branch.
+This pulls the WeBuddhist Academy-specific translations from the `OpenPecha/openedx-translations` repository on the `sherab-dev` branch.
 
 ---
 

@@ -1,6 +1,6 @@
 # 05. Android App Development Environment Setup for Open edX
 
-This guide walks you through setting up Android Studio and configuring a local development environment to run the Open edX Android app. The mobile app lets users consume Sherab courses directly on their phones.
+This guide walks you through setting up Android Studio and configuring a local development environment to run the Open edX Android app. The mobile app lets users consume WeBuddhist Academy courses directly on their phones.
 
 ---
 

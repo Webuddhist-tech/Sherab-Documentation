@@ -1,7 +1,7 @@
 # 06. Partner-Organization Mapping Guide
 
 ## What is this?
-In the Sherab mobile app, we want to allow users to filter courses by specific "Partners" or "Organizations". This guide explains how to link a Partner to an Organization in the backend so it properly displays in the mobile app UI.
+In the WeBuddhist Academy mobile app, we want to allow users to filter courses by specific "Partners" or "Organizations". This guide explains how to link a Partner to an Organization in the backend so it properly displays in the mobile app UI.
 
 ---
 

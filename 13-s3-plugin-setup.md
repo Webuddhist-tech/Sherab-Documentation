@@ -1,6 +1,6 @@
 # 13. S3 Plugin Setup
 
-This plugin allows Sherab (WebBuddhist Course) to be configured with custom S3 settings for file storage, profile images, and partner logos.
+This plugin allows WeBuddhist Academy (WebBuddhist Course) to be configured with custom S3 settings for file storage, profile images, and partner logos.
 
 ---
 

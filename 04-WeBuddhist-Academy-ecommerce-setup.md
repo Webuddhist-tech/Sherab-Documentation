@@ -1,7 +1,7 @@
-# 04. Complete Guide to Setting Up E-commerce for Sherab
+# 04. Complete Guide to Setting Up E-commerce for WeBuddhist Academy
 
 ## What Is This Integration?
-We use a **WordPress/WooCommerce** setup to act as the primary storefront for the Sherab project. 
+We use a **WordPress/WooCommerce** setup to act as the primary storefront for the WeBuddhist Academy project. 
 - **WordPress** is the website catalog where users browse.
 - **WooCommerce** handles the shopping cart and payments.
 - When a user buys a course, the system uses OAuth2 (a secure way APIs talk to each other) to automatically enroll them into the actual course on **Open edX**.
@@ -68,7 +68,7 @@ tutor local launch
 
 ---
 
-## Phase 1: Create OAuth2 Application (In Sherab / Open edX)
+## Phase 1: Create OAuth2 Application (In WeBuddhist Academy / Open edX)
 We must create a secure "key" in Open edX so WordPress is allowed to talk to it.
 
 1. In your browser, go to the Django Admin panel: `http://local.openedx.io:8000/admin`

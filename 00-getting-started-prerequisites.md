@@ -1,6 +1,6 @@
 # 00. Getting Started: Global Prerequisites
 
-Welcome to the Sherab project! Before diving into setting up the platform, let's make sure your computer has the necessary tools installed. 
+Welcome to the WeBuddhist Academy project! Before diving into setting up the platform, let's make sure your computer has the necessary tools installed. 
 
 This is the most critical step. If you miss something here, you will face errors later on. Please follow these steps carefully.
 

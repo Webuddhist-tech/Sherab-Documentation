@@ -7,7 +7,7 @@ All translation files (mostly `.po` and `.json` files) are tracked in a reposito
 
 ---
 
-## How Sherab Handles Translations
+## How WeBuddhist Academy Handles Translations
 We use **GitHub Integration** with Transifex. This is the easiest and most automated way.
 - When someone translates a string on the Transifex website, it automatically opens a Pull Request to our GitHub repository.
 - When we merge that Pull Request, the translation becomes live on our platform!
