@@ -207,3 +207,12 @@ tutor local run lms ./manage.py lms migrate course_partnerships
 
 ### 9. Update the s3 config?
 To be updated...
+
+---
+
+## 10. Add Invite Instructions for Palpung Courses
+Palpung's courses are invite-only, so their **Invite Instructions** message needs to be set via the admin panel (School / Partner model) before launch.
+
+- [ ] Confirm the exact wording with Menla, after Menla has checked with the Palpung admin.
+- [ ] Add the confirmed message to Palpung's Partner record in the admin panel.
+- [ ] Note: if a partner has no message set, a default fallback message is shown instead — so this isn't blocking, but should be done before launch for a proper Palpung-specific message.
