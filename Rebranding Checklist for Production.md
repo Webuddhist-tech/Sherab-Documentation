@@ -174,6 +174,10 @@ hooks.Filters.ENV_PATCHES.add_items([
 tutor local run lms ./manage.py lms migrate course_partnerships
 ```
 
+- This command also covers the schema changes from PR #16 (catalog/course-about backend changes) — no separate step needed for these:
+  - [ ] `0013_partner_invite_instructions` — adds the `invite_instructions` field to `Partner`
+  - [ ] `0010`–`0012_herocourse*` — adds the `HeroCourse` table (see section 8)
+
 ---
 
 ## 7. Update Google Auth Icon
