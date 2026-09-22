@@ -1,7 +1,7 @@
 # Production Rebranding Checklist
 
 ## 1. Merge Changes to Production Branch
-Merge changes into the `production` branch for the following repositories:
+Merge changes into the `wbc-ulmo1-stage` & `wbc-ulmo1-prod` branches for the following repositories:
 - [ ] `edx-platform`
 - [ ] `sherab-custom-plugin`
 - [ ] `edx-ora2`
@@ -15,6 +15,7 @@ Merge changes into the `production` branch for the following repositories:
 - [ ] `frontend-app-learner-dashboard`
 - [ ] `frontend-app-learning`
 - [ ] `frontend-app-profile`
+- [ ] `frontend-app-extension`
 - [ ] `frontend-component-footer`
 - [ ] `frontend-component-header-v6.6.0`
 - [ ] `frontend-component-header-v8.0.0`
@@ -156,6 +157,16 @@ hooks.Filters.ENV_PATCHES.add_items([
     ("mfe-env-config-runtime-definitions-catalog", CATALOG_PARTNER_CAROUSEL_SLOT),
     ("mfe-env-config-runtime-definitions-catalog", CATALOG_COURSE_CATEGORIES_SLOT),
 ])
+```
+
+- [ ] Configure `frontend-app-extension` in `forked-mfe.py`:
+
+```python
+mfes["extension"] = {
+    "repository": "https://github.com/Webuddhist-tech/frontend-app-extension.git",
+    "port": 2003,
+    "version": "wbc-ulmo1-prod",
+}
 ```
 
 ---
