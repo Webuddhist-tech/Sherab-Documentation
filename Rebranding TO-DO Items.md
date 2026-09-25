@@ -16,7 +16,7 @@
   - Release Ulmo version of mobile apps to comply with Google Play policy (deadline: Oct 31, 2026).
 
 - [ ] 6. Rebranding Banner on Homepage [#440](https://github.com/Webuddhist-tech/Sherab-Project/issues/440)
-  - Add an announcement banner on the **Django homepage** to inform users about the rebranding.
+  - Add an announcement banner for production on the **Django homepage** to inform users about the rebranding.
 
 - [ ] 7. New Domain & Redirects
   - Get a new domain for Webuddhist Academy and set up redirects from the old domain.
@@ -36,8 +36,8 @@
 - [ ] 12. Review Additional Learning MFE Pages [#436](https://github.com/Webuddhist-tech/Sherab-Project/issues/436)
   - Review additional pages (textbook, wiki, etc.) to determine if rebranding is needed.
 
-- [ ] 13. Rebrand Bookmarks Page in Learning MFE
-  - Review and update the bookmarks page in the Learning MFE to match new branding.
+- [ ] 13. Rebrand Bookmarks & Update Pages in Learning MFE
+  - Review and update the bookmarks & Update pages in the Learning MFE to match new branding.
 
 - [ ] 14. Rebrand Notes Page in Learning MFE [#437](https://github.com/Webuddhist-tech/Sherab-Project/issues/437)
   - Review and update the notes page in the Learning MFE to match new branding. (may need R&D for development)
@@ -53,7 +53,3 @@
 
 - [ ] 18. (Optional) Isolate S3 Bucket for Production [#420](https://github.com/Webuddhist-tech/Sherab-Project/issues/420)
   - Isolate the production S3 bucket and configure separate buckets for staging and local testing.
-  
-
-
-
